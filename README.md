@@ -1,4 +1,4 @@
-ste proyecto implementa una solución de Big Data utilizando Apache Spark y Apache Kafka para el análisis de un conjunto de datos de ventas de un supermercado (`samplesuperstore.csv`). El proyecto se divide en dos componentes principales:
+Este proyecto implementa una solución de Big Data utilizando Apache Spark y Apache Kafka para el análisis de un conjunto de datos de ventas de un supermercado (`samplesuperstore.csv`). El proyecto se divide en dos componentes principales:
 1. **Procesamiento en Batch:** Limpieza, transformación y análisis exploratorio de datos (EDA) utilizando DataFrames de PySpark.
 2. **Procesamiento en Tiempo Real:** Simulación de llegada de datos usando Kafka y procesamiento de flujos (Streaming) con Spark.
 
